@@ -9,7 +9,7 @@
 
 
 [instagram]: https://www.instagram.com/bryson_weaverr?igsh=MW9jNXB0YmszZjdpbA%3D%3D&utm_source=qr
-[linkedin]: www.linkedin.com/in/bryson-weaver-7b21292b6
+[linkedin]: https://www.linkedin.com/in/bryson-weaver-7b21292b6
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
