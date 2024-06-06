@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryson! <br/><a <a href="www.linkedin.com/in/bryson-weaver-7b21292b6">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Bryson! <br/><a <a href="https://www.linkedin.com/in/bryson-weaver-7b21292b6">Cybersecurity Professional</a>, 
 
 
 <h2> 🤳 Connect with me:</h2>
